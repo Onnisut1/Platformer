@@ -1,4 +1,4 @@
-# **Platformer Game** ![Ninja](/Peli/Pelaaja.png)
+# **Platformer Game** ![Ninja](/Platformer/Pelaaja.png)
 
 ## **General info**
 ##### Project is still in progress
